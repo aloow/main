@@ -1,0 +1,6 @@
+[submodule "submodules/aModule"]
+	path = submodules/aModule
+	url = https://github.com/aloow/aModule.git
+[submodule "submodules/bModel"]
+	path = submodules/bModel
+	url = https://github.com/aloow/bModel.git
